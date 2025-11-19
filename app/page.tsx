@@ -298,7 +298,7 @@ export default function Home() {
                       <div className="flex gap-3">
                         <Button type="submit" className="flex-1">Submit Application</Button>
                         <Button type="button" variant="outline" asChild>
-                          <a href="#" download>Download Brochure</a>
+                          <a href="#">Download Brochure</a>
                         </Button>
                       </div>
                     </form>
@@ -688,8 +688,8 @@ export default function Home() {
                   </CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <a href="tel:+919876543210" className="text-lg hover:text-primary transition-colors">
-                    +91 98765 43210
+                  <a href="tel:+911234567789" className="text-lg hover:text-primary transition-colors">
+                    +91 123 4567 789
                   </a>
                 </CardContent>
               </Card>
@@ -715,8 +715,8 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-lg">
-                    123 CG Road, Navrangpura<br />
-                    Ahmedabad, Gujarat 380009
+                    Silvassa <br />
+                    Dadra,Dadra and Nagar Haveli 380009
                   </p>
                 </CardContent>
               </Card>
