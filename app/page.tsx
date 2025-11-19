@@ -160,7 +160,7 @@ export default function Home() {
       avatar: '/indian-woman-smiling.png',
     },
     {
-      name: "Amit Desai",
+      name: "Anita Desai",
       role: "Franchise Owner, Vadodara",
       quote: "From setup to operations, everything was smooth. Great ROI and brand recognition!",
       avatar: '/indian-entrepreneur-portrait.jpg',
